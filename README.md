@@ -23,3 +23,6 @@ with the device at bus address 0x60, then read a single byte from register 0.
 
 Note the makefile is for building a .so library that could be installed.  As i use the source dropped 
 directly into my projects source tree, this functionality has not been tested.
+
+## References ###
+  * https://www.kernel.org/doc/html/latest/i2c/dev-interface.html
